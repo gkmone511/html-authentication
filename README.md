@@ -1,3 +1,3 @@
 # html-authentication
 
-## This is a html project for Team A
+## This is a HTML project for Team A
